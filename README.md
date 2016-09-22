@@ -1,2 +1,3 @@
 # alloo
-Segir halló
+Froskar geta virst fleygir
+og fuglar lifaðir.
